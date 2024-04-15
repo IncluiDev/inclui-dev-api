@@ -25,7 +25,5 @@ public class PreferenciaModel implements Serializable {
 
     private boolean deficienciaVisual, deficienciaAuditiva, autismo, daltonismo, dificuldadeFala;
 
-    @ManyToOne
-    @JoinColumn(name = "usuario_id", nullable = false)
-    private UsuarioModel usuario;
+    private UUID usuario;
 }

@@ -31,5 +31,5 @@ public class CursoModel implements Serializable {
 
     // lista de videos/aulas
 
-    private UsuarioModel professor;
+    private UUID professor;
 }

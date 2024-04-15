@@ -1,6 +1,5 @@
 package inclui_mais_api.data.model.persist.usabilidade;
 
-import inclui_mais_api.data.model.persist.perfil.UsuarioModel;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -26,5 +25,5 @@ public class InatividadeModel implements Serializable {
     private UUID id;
 
     private LocalDate ultimoAcesso;
-    private UsuarioModel usuario;
+    private UUID usuario;
 }

@@ -23,7 +23,7 @@ public class EnderecoModel implements Serializable {
     @Id @GeneratedValue(strategy = GenerationType.AUTO)
     private UUID id;
 
-    private String cep, logradouro, complemento, pais, cidade, estado;
+    private String cep, logradouro, complemento, cidade, estado, pais;
     private int numero;
 
     @OneToOne(mappedBy = "endereco")

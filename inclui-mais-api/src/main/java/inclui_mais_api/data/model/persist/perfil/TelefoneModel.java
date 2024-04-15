@@ -1,5 +1,6 @@
 package inclui_mais_api.data.model.persist.perfil;
 
+import inclui_mais_api.data.model.type.TelefoneTipo;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -25,9 +26,9 @@ public class TelefoneModel implements Serializable {
     private UUID id;
 
     private String regiao, ddd, numero;
-    private String tipo; // Celular, Residencial, Comercial
 
-    @ManyToOne
-    @JoinColumn(name = "usuario_id", nullable = false)
-    private UsuarioModel usuario;
+    @Enumerated(EnumType.STRING)
+    private TelefoneTipo tipo;
+
+    private UUID usuario;
 }

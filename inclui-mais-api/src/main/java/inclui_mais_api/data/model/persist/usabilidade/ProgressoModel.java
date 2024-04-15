@@ -1,6 +1,5 @@
 package inclui_mais_api.data.model.persist.usabilidade;
 
-import inclui_mais_api.data.model.persist.perfil.UsuarioModel;
 import inclui_mais_api.data.model.type.EducativoTipo;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -30,6 +29,5 @@ public class ProgressoModel implements Serializable {
     @Enumerated(EnumType.STRING)
     private EducativoTipo modalidade;
 
-    private UUID educativo;
-    private UsuarioModel usuario;
+    private UUID educativo, usuario;
 }
