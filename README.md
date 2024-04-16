@@ -30,7 +30,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/" title="Github Adriele">
+      <a href="https://github.com/adriele7" title="Github Adriele">
         <img src="" width="150px;" alt="Foto de Adriele Lima Santos"/><br>
         <sub>
           <b>Adriele Lima Santos</b>
@@ -38,7 +38,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/" title="Github Kayky">
+      <a href="https://github.com/Kayk-Dev" title="Github Kayky">
         <img src="" width="150px;" alt="Foto de Kayk Messias Gomes"/><br>
         <sub>
           <b>Kayk Messias Gomes</b>
