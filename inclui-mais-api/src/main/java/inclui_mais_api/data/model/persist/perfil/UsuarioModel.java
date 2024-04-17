@@ -3,7 +3,6 @@ package inclui_mais_api.data.model.persist.perfil;
 import inclui_mais_api.data.model.type.PerfilTipo;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -15,7 +14,6 @@ import java.util.UUID;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Builder
 @Entity
 @Table(name = "usuario")
 public class UsuarioModel implements Serializable {

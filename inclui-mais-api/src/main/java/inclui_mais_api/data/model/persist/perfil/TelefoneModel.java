@@ -1,12 +1,11 @@
 package inclui_mais_api.data.model.persist.perfil;
 
 import inclui_mais_api.data.model.type.TelefoneTipo;
+import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import jakarta.persistence.*;
 import java.io.Serial;
 import java.io.Serializable;
 import java.util.UUID;
@@ -14,7 +13,6 @@ import java.util.UUID;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Builder
 @Entity
 @Table(name = "telefone")
 public class TelefoneModel implements Serializable {

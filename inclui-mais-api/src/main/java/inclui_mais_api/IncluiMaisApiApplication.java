@@ -6,8 +6,6 @@ import io.swagger.v3.oas.annotations.info.Info;
 import io.swagger.v3.oas.annotations.info.License;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.retry.annotation.EnableRetry;
-import org.springframework.scheduling.annotation.EnableScheduling;
 
 @OpenAPIDefinition(
         info = @Info(
@@ -27,8 +25,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
         )
 )
 @SpringBootApplication
-@EnableRetry
-@EnableScheduling
 public class IncluiMaisApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(IncluiMaisApiApplication.class, args);

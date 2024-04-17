@@ -3,7 +3,6 @@ package inclui_mais_api.data.model.persist.usabilidade;
 import inclui_mais_api.data.model.type.EducativoTipo;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -14,7 +13,6 @@ import java.util.UUID;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Builder
 @Entity
 @Table(name = "progresso")
 public class ProgressoModel implements Serializable {

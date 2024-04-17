@@ -1,11 +1,10 @@
 package inclui_mais_api.data.model.persist.perfil;
 
+import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import jakarta.persistence.*;
 import java.io.Serial;
 import java.io.Serializable;
 import java.util.UUID;
@@ -13,7 +12,6 @@ import java.util.UUID;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Builder
 @Entity
 @Table(name = "endereco")
 public class EnderecoModel implements Serializable {
@@ -26,6 +24,5 @@ public class EnderecoModel implements Serializable {
     private String cep, logradouro, complemento, cidade, estado, pais;
     private int numero;
 
-    @OneToOne(mappedBy = "endereco")
-    private UsuarioModel usuario;
+    private UUID usuario;
 }
