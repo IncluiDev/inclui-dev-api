@@ -1,7 +1,7 @@
 <h1 align=center>INCLUIDEV API</h1>
 
 <p align="center">
-  <img src="pictures/logo.png" width="500">
+  <img src="pictures/banner.png" style="border-radius: 10px;">
 </p>
 
 #
