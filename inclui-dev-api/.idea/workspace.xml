@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6454a82f-9b8c-4ebc-a542-2b27695b5101" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/IncluiDevApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/IncluiDevApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/controller/CursoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/CursoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/controller/EnderecoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/EnderecoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/controller/InatividadeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/InatividadeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/controller/JogoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/JogoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/controller/PreferenciaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/PreferenciaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/controller/ProgressoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/ProgressoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/controller/ResponsavelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/ResponsavelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/controller/TelefoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/TelefoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/repository/CursoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/CursoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/repository/EnderecoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/EnderecoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/repository/InatividadeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/InatividadeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/repository/JogoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/JogoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/repository/PreferenciaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/PreferenciaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/repository/ProgressoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/ProgressoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/repository/ResponsavelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/ResponsavelRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/repository/TelefoneRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/TelefoneRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/repository/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/UsuarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/service/CursoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/CursoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/service/EnderecoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/EnderecoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/service/InatividadeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/InatividadeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/service/JogoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/JogoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/service/PreferenciaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/PreferenciaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/service/ProgressoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/ProgressoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/service/ResponsavelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/ResponsavelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/service/TelefoneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/TelefoneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/application/service/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/configuration/ClientConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/configuration/ClientConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/configuration/DateConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/configuration/DateConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/exception/BadRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/exception/BadRequestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/exception/ControllerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/exception/ControllerException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/exception/ExceptionGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/exception/ExceptionGeneric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/exception/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/exception/NotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/exception/ResponseBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/exception/ResponseBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/rule/temporario" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/rule/temporario" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/security/temporario" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/security/temporario" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraint/CursoExistsById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/CursoExistsById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraint/EnderecoExistsById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/EnderecoExistsById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraint/InatividadeExistsById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/InatividadeExistsById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraint/JogoExistsById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/JogoExistsById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraint/PreferenciaExistsById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/PreferenciaExistsById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraint/ProgressoExistsById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/ProgressoExistsById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraint/TelefoneExistsById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/TelefoneExistsById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraint/UsuarioExistsByEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/UsuarioExistsByEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraint/UsuarioExistsById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/UsuarioExistsById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraintValidator/CursoExistsByIdValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/CursoExistsByIdValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraintValidator/EnderecoExistsByIdValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/EnderecoExistsByIdValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraintValidator/InatividadeExistsByIdValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/InatividadeExistsByIdValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraintValidator/JogoExistsByIdValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/JogoExistsByIdValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraintValidator/PreferenciaExistsByIdValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/PreferenciaExistsByIdValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraintValidator/ProgressoExistsByIdValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/ProgressoExistsByIdValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraintValidator/TelefoneExistsByIdValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/TelefoneExistsByIdValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraintValidator/UsuarioExistsByEmailValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/UsuarioExistsByEmailValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/component/validation/constraintValidator/UsuarioExistsByIdValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/UsuarioExistsByIdValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/post/CursoPostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/CursoPostDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/post/EnderecoPostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/EnderecoPostDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/post/InatividadePostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/InatividadePostDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/post/JogoPostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/JogoPostDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/post/PreferenciaPostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/PreferenciaPostDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/post/ProgressoPostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/ProgressoPostDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/post/ResponsavelPostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/ResponsavelPostDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/post/TelefonePostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/TelefonePostDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/post/UsuarioPostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/UsuarioPostDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/put/CursoPutDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/CursoPutDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/put/EnderecoPutDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/EnderecoPutDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/put/InatividadePutDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/InatividadePutDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/put/JogoPutDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/JogoPutDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/put/PreferenciaPutDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/PreferenciaPutDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/put/ProgressoPutDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/ProgressoPutDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/put/ResponsavelPutDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/ResponsavelPutDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/put/TelefonePutDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/TelefonePutDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/dto/put/UsuarioPutDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/UsuarioPutDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/mapper/CursoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/CursoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/mapper/EnderecoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/EnderecoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/mapper/InatividadeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/InatividadeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/mapper/JogoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/JogoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/mapper/PreferenciaMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/PreferenciaMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/mapper/ProgressoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/ProgressoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/mapper/ResponsavelMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/ResponsavelMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/mapper/TelefoneMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/TelefoneMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/mapper/UsuarioMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/UsuarioMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/dynamic/RecuperacaoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/dynamic/RecuperacaoModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/dynamic/TokenValidModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/dynamic/TokenValidModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/metric/temporario" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/metric/temporario" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/persist/educacional/CursoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/persist/educacional/CursoModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/persist/educacional/JogoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/persist/educacional/JogoModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/persist/perfil/EnderecoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/persist/perfil/EnderecoModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/persist/perfil/PreferenciaModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/persist/perfil/PreferenciaModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/persist/perfil/ResponsavelModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/persist/perfil/ResponsavelModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/persist/perfil/TelefoneModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/persist/perfil/TelefoneModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/persist/perfil/UsuarioModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/persist/perfil/UsuarioModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/persist/usabilidade/InatividadeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/persist/usabilidade/InatividadeModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/persist/usabilidade/ProgressoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/persist/usabilidade/ProgressoModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/type/EducativoTipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/type/EducativoTipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/type/PerfilTipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/type/PerfilTipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inclui_dev_api/data/model/type/TelefoneTipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/type/TelefoneTipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/inclui_dev_api/InlcuiDevApiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/incluidevapi/InlcuiDevApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/IncluiDevApiApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/controller/CursoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/controller/EnderecoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/controller/InatividadeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/controller/JogoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/controller/PreferenciaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/controller/ProgressoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/controller/ResponsavelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/controller/TelefoneController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/controller/UsuarioController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/repository/CursoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/repository/EnderecoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/repository/InatividadeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/repository/JogoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/repository/PreferenciaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/repository/ProgressoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/repository/ResponsavelRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/repository/TelefoneRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/repository/UsuarioRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/service/CursoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/service/EnderecoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/service/InatividadeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/service/JogoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/service/PreferenciaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/service/ProgressoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/service/ResponsavelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/service/TelefoneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/application/service/UsuarioService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/configuration/ClientConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/configuration/DateConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/exception/BadRequestException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/exception/ControllerException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/exception/ExceptionGeneric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/exception/NotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/exception/ResponseBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraint/CursoExistsById.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraint/EnderecoExistsById.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraint/InatividadeExistsById.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraint/JogoExistsById.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraint/PreferenciaExistsById.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraint/ProgressoExistsById.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraint/TelefoneExistsById.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraint/UsuarioExistsByEmail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraint/UsuarioExistsById.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraintValidator/CursoExistsByIdValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraintValidator/EnderecoExistsByIdValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraintValidator/InatividadeExistsByIdValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraintValidator/JogoExistsByIdValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraintValidator/PreferenciaExistsByIdValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraintValidator/ProgressoExistsByIdValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraintValidator/TelefoneExistsByIdValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraintValidator/UsuarioExistsByEmailValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/component/validation/constraintValidator/UsuarioExistsByIdValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/CursoPostDto$CursoPostDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/CursoPostDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/EnderecoPostDto$EnderecoPostDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/EnderecoPostDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/InatividadePostDto$InatividadePostDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/InatividadePostDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/JogoPostDto$JogoPostDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/JogoPostDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/PreferenciaPostDto$PreferenciaPostDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/PreferenciaPostDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/ProgressoPostDto$ProgressoPostDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/ProgressoPostDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/ResponsavelPostDto$ResponsavelPostDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/ResponsavelPostDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/TelefonePostDto$TelefonePostDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/TelefonePostDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/UsuarioPostDto$UsuarioPostDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/post/UsuarioPostDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/CursoPutDto$CursoPutDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/CursoPutDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/EnderecoPutDto$EnderecoPutDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/EnderecoPutDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/InatividadePutDto$InatividadePutDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/InatividadePutDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/JogoPutDto$JogoPutDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/JogoPutDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/PreferenciaPutDto$PreferenciaPutDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/PreferenciaPutDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/ProgressoPutDto$ProgressoPutDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/ProgressoPutDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/ResponsavelPutDto$ResponsavelPutDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/ResponsavelPutDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/TelefonePutDto$TelefonePutDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/TelefonePutDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/UsuarioPutDto$UsuarioPutDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/dto/put/UsuarioPutDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/mapper/CursoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/mapper/EnderecoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/mapper/InatividadeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/mapper/JogoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/mapper/PreferenciaMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/mapper/ProgressoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/mapper/ResponsavelMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/mapper/TelefoneMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/mapper/UsuarioMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/dynamic/RecuperacaoModel$RecuperacaoModelBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/dynamic/RecuperacaoModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/dynamic/TokenValidModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/persist/educacional/CursoModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/persist/educacional/JogoModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/persist/perfil/EnderecoModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/persist/perfil/PreferenciaModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/persist/perfil/ResponsavelModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/persist/perfil/TelefoneModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/persist/perfil/UsuarioModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/persist/usabilidade/InatividadeModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/persist/usabilidade/ProgressoModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/type/EducativoTipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/type/PerfilTipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inclui_dev_api/data/model/type/TelefoneTipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/email.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2fiaoVscFDbmOAtiK1uElopbhkR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/github/inclui-dev-api/incluidev"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="inclui-dev-api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="inclui-dev-api" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6454a82f-9b8c-4ebc-a542-2b27695b5101" name="Changes" comment="" />
+      <created>1714286526681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714286526681</updated>
+    </task>
+    <servers />
+  </component>
+</project>
