@@ -1,7 +1,7 @@
-<h1 align=center>INCLUI+ API</h1>
+<h1 align=center>INCLUIDEV API</h1>
 
 <p align="center">
-  <img src="logo-principal-transparente.png" width="500">
+  <img src="pictures/logo.png" width="500">
 </p>
 
 #
@@ -23,7 +23,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/kaiquesouzasantos" title="Github Kaique">
-        <img src="" width="150px;" alt="Foto de Kaique Souza Santos"/><br>
+        <img src="pictures/KAIQUE.jpeg" width="150px;" alt="Foto de Kaique Souza Santos"/><br>
         <sub>
           <b>Kaique Souza Santos</b>
         </sub>
@@ -31,7 +31,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/adriele7" title="Github Adriele">
-        <img src="" width="150px;" alt="Foto de Adriele Lima Santos"/><br>
+        <img src="pictures/ADRIELE.jpeg" width="150px;" alt="Foto de Adriele Lima Santos"/><br>
         <sub>
           <b>Adriele Lima Santos</b>
         </sub>
@@ -39,7 +39,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Kayk-Dev" title="Github Kayky">
-        <img src="" width="150px;" alt="Foto de Kayk Messias Gomes"/><br>
+        <img src="pictures/KAYKY.jpeg" width="150px;" alt="Foto de Kayk Messias Gomes"/><br>
         <sub>
           <b>Kayk Messias Gomes</b>
         </sub>
