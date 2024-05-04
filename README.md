@@ -25,7 +25,7 @@
       <a href="https://github.com/kaiquesouzasantos" title="Github Kaique">
         <img src="pictures/KAIQUE.jpeg" width="150px;" alt="Foto de Kaique Souza Santos"/><br>
         <sub>
-          <b>Kaique Souza Santos</b>
+          <b>Kaique</b>
         </sub>
       </a>
     </td>
@@ -33,7 +33,7 @@
       <a href="https://github.com/adriele7" title="Github Adriele">
         <img src="pictures/ADRIELE.jpeg" width="150px;" alt="Foto de Adriele Lima Santos"/><br>
         <sub>
-          <b>Adriele Lima Santos</b>
+          <b>Adriele</b>
         </sub>
       </a>
     </td>
@@ -41,7 +41,7 @@
       <a href="https://github.com/Kayk-Dev" title="Github Kayky">
         <img src="pictures/KAYKY.jpeg" width="150px;" alt="Foto de Kayk Messias Gomes"/><br>
         <sub>
-          <b>Kayk Messias Gomes</b>
+          <b>Kayk</b>
         </sub>
       </a>
     </td>
