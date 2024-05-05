@@ -20,6 +20,10 @@
 # 
 - **Serviço de Recuperação de Senha**
 
+<div align="center">
+  <img src="pictures/arquitetura-recuperacao-senha.png" width="600px;">
+</div>
+
 #
 ### MODELAGEM DE PERSISTENCIA
 
