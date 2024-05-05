@@ -21,7 +21,7 @@
 - **Serviço de Recuperação de Senha**
 
 <div align="center">
-  <img src="pictures/arquitetura-recuperacao-senha.png" width="600px;">
+  <img src="pictures/arquitetura-recuperacao-senha.png" width="800px;">
 </div>
 
 #
