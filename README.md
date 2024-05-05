@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="pictures/banner.png" style="border-radius: 10px;">
-</p>
+</div>
 
 #
 ### DESCRICAO
@@ -10,11 +10,15 @@
 #
 ### REPRESENTACAO DE FLUXO
 
+# 
 - **Arquitetura**
 
 <div align="center">
-  <img src="pictures/arquitetura.png">
-</p>
+  <img src="pictures/arquitetura.png" width="600px;">
+</div>
+
+# 
+- **Serviço de Recuperação de Senha**
 
 #
 ### MODELAGEM DE PERSISTENCIA
@@ -25,7 +29,7 @@
 #
 ### EQUIPE
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/kaiquesouzasantos" title="Github Kaique">
