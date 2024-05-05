@@ -5,11 +5,13 @@ public enum TelefoneTipo {
     RESIDENCIAL("RESIDENCIAL"),
     CELULAR("CELULAR");
 
-    TelefoneTipo(String content){
+    private final String content;
 
+    TelefoneTipo(String content){
+        this.content = content;
     }
 
     public static String toString(TelefoneTipo perfil) {
-        return String.valueOf(perfil);
+        return perfil.content;
     }
 }

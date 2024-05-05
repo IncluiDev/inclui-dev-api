@@ -7,11 +7,13 @@ public enum PerfilTipo {
     PROFESSOR("PROFESSOR"),
     RESPONSAVEL("RESPONSAVEL");
 
-    PerfilTipo (String content){
+    private final String content;
 
+    PerfilTipo (String content){
+        this.content = content;
     }
 
     public static String toString(PerfilTipo perfil) {
-        return String.valueOf(perfil);
+        return perfil.content;
     }
 }

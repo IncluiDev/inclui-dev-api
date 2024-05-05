@@ -1,21 +1,21 @@
 package incluidevapi.component.validation.constraintValidator;
 
-import incluidevapi.application.repository.UsuarioRepository;
-import incluidevapi.component.validation.constraint.UsuarioExistsByEmail;
+import incluidevapi.application.repository.RecuperacaoSenhaRepository;
+import incluidevapi.component.validation.constraint.RecuperacaoSenhaExistsByEmail;
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
-public class UsuarioExistsByEmailValidator implements ConstraintValidator<UsuarioExistsByEmail, String> {
-    private final UsuarioRepository usuarioRepository;
+public class RecuperacaoSenhaExistsByEmailValidator implements ConstraintValidator<RecuperacaoSenhaExistsByEmail, String> {
+    private final RecuperacaoSenhaRepository recuperacaoSenhaRepository;
 
     @Override
     public boolean isValid(String value, ConstraintValidatorContext constraintValidatorContext) {
-        return existsUsuario(value);
+        return existsRecuperacao(value);
     }
 
-    private boolean existsUsuario(String email){
-        return usuarioRepository.existsByEmail(email);
+    private boolean existsRecuperacao(String email){
+        return recuperacaoSenhaRepository.existsByEmail(email);
     }
 }

@@ -1,6 +1,6 @@
 package incluidevapi.component.validation.constraint;
 
-import incluidevapi.component.validation.constraintValidator.UsuarioExistsByIdValidator;
+import incluidevapi.component.validation.constraintValidator.RecuperacaoSenhaExistsByEmailValidator;
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;
 
@@ -11,8 +11,8 @@ import java.lang.annotation.Target;
 
 @Target({ElementType.FIELD, ElementType.LOCAL_VARIABLE})
 @Retention(RetentionPolicy.RUNTIME)
-@Constraint(validatedBy = UsuarioExistsByIdValidator.class)
-public @interface UsuarioExistsByEmail {
+@Constraint(validatedBy = RecuperacaoSenhaExistsByEmailValidator.class)
+public @interface RecuperacaoSenhaExistsByEmail {
     String message() default "<mensagem>";
     Class<?>[ ] groups() default { };
     Class<? extends Payload>[ ] payload() default { };

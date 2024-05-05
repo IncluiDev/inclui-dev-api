@@ -16,7 +16,7 @@ import java.util.UUID;
 @Builder
 @Entity
 @Table(name = "recuperacao")
-public class RecuperacaoModel implements Serializable {
+public class RecuperacaoSenhaModel implements Serializable {
     @Serial
     private static final long serialVersionUID = 1L;
 
@@ -25,4 +25,9 @@ public class RecuperacaoModel implements Serializable {
 
     @Column(unique = true)
     private String email, codigo;
+
+    public RecuperacaoSenhaModel(String email, String codigo) {
+        this.email = email;
+        this.codigo = codigo;
+    }
 }

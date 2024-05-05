@@ -4,11 +4,13 @@ public enum EducativoTipo {
     JOGO("JOGO"),
     CURSO("CURSO");
 
-    EducativoTipo(String content){
+    private final String content;
 
+    EducativoTipo(String content){
+        this.content = content;
     }
 
     public static String toString(EducativoTipo perfil) {
-        return String.valueOf(perfil);
+        return perfil.content;
     }
 }
