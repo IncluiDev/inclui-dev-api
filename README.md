@@ -1,6 +1,6 @@
 <h1 align=center>INCLUIDEV API</h1>
 
-<p align="center">
+<div align="center">
   <img src="pictures/banner.png" style="border-radius: 10px;">
 </p>
 
@@ -9,6 +9,12 @@
 
 #
 ### REPRESENTACAO DE FLUXO
+
+- **Arquitetura**
+
+<div align="center">
+  <img src="pictures/arquitetura.png">
+</p>
 
 #
 ### MODELAGEM DE PERSISTENCIA
