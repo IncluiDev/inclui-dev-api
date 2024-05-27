@@ -31,6 +31,54 @@
 ### MODELAGEM DE CLASSES
 
 #
+### REQUISITOS
+
+Para executar nossa plataforma localmente, é necessário ter em seu dispositivo computacional:
+
+  1. Certifique-se que instalou a versão 17 do Java.  [Baixe aqui](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+
+  2. Certifique-se de que instalou alguma IDE em sua máquina. [Baixe aqui](https://www.jetbrains.com/idea/download/?section=windows)
+
+#
+### DOWNLOAD DO PROJETO
+
+Baixe o projeto em seu computador através do comando:
+
+```bash
+git clone https://github.com/IncluiDev/inclui-dev-api.git
+```
+
+**ou**
+
+1. Clique em `<> Code`.
+2. Faça o download do arquivo ZIP.
+3. Abra o seu explorador de arquivos na localização da instalação.
+4. Extraia o arquivo ZIP.
+
+#
+### EXECUÇÃO
+
+Sequência de execução do projeto:
+
+1. Acesse a IDE na qual deseja executar o projeto.
+2. Clique em "Abrir um projeto já existente".
+3. Selecione o local da pasta descompactada do projeto.
+4. Confirme a seleção.
+5. Localize e clique no botão "Play" (verde) localizado na parte superior da IDE.
+6. Um terminal integrado será aberto.
+7. Aguarde a instalação das dependências do projeto.
+8. Após a conclusão das instalações, o projeto será executado.
+
+#
+### VISUALIZAÇÃO
+
+Abra a janela do seu navegador web padrão e acesse o seguinte endereço pela barra de pesquisa:
+
+```bash
+http://localhost:8080/swagger-ui/index.html#/
+```
+
+#
 ### EQUIPE
 
 <table align="center">
