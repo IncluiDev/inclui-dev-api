@@ -5,29 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee53ca8d-a2f2-4630-8edd-b8af6a09d7d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/configuration/WebConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/IncluiDevApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/IncluiDevApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/RecuperacaoSenhaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/controller/RecuperacaoSenhaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/RecuperacaoSenhaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/RecuperacaoSenhaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/repository/UsuarioRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/RecuperacaoSenhaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/RecuperacaoSenhaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/component/configuration/ClientConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/configuration/ClientConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/component/util/GenerateCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/util/GenerateCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/component/util/WebClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/util/WebClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/RecuperacaoSenhaExistsByEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraint/RecuperacaoSenhaExistsByEmail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/RecuperacaoSenhaExistsByEmailValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/component/validation/constraintValidator/RecuperacaoSenhaExistsByEmailValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/RecuperacaoSenhaPostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/RecuperacaoSenhaPostDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/RecuperacaoSenhaPutDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/put/RecuperacaoSenhaPutDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/dynamic/RecuperacaoSenhaModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/dynamic/RecuperacaoSenhaModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/type/EducativoTipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/type/EducativoTipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/application/service/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/UsuarioPostDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/dto/post/UsuarioPostDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/UsuarioMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/mapper/UsuarioMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/type/PerfilTipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/type/PerfilTipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/type/TelefoneTipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/incluidevapi/data/model/type/TelefoneTipo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,10 +26,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2g1iqhp7Bzr5gHD37gLas6C0BKi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,10 +37,41 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.IncluiDevApiApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="incluidevapi.component.configuration" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IncluiDevApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="incluidevapi.IncluiDevApiApplication" />
+      <module name="inclui-dev-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="incluidevapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IncluiDevApiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
