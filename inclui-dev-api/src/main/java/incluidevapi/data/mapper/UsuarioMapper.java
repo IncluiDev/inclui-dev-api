@@ -10,7 +10,7 @@ public class UsuarioMapper {
     public static UsuarioModel toMapper(UsuarioPostDto objetoEntrada) {
         UsuarioModel objetoSaida = new UsuarioModel();
         BeanUtils.copyProperties(objetoEntrada, objetoSaida);
-        objetoSaida.setPerfil(PerfilTipo.USUARIO);
+        objetoSaida.setPerfil(PerfilTipo.toString(objetoEntrada.getPerfil()));
         return objetoSaida;
     }
 

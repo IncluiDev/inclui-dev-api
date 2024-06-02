@@ -23,7 +23,7 @@ public class UsuarioModel implements Serializable {
     @Id @GeneratedValue(strategy = GenerationType.AUTO)
     private UUID id;
 
-    private String nome, email, senha;
+    private String nome, email, senha, referenciaFoto;
     private LocalDate dataNascimento;
 
     @Enumerated(EnumType.STRING)

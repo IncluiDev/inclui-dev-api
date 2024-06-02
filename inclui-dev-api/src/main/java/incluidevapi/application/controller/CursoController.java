@@ -9,6 +9,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
 import java.util.UUID;
 
 @RestController
@@ -36,5 +37,10 @@ public class CursoController {
     @GetMapping("")
     public ResponseEntity<CursoModel> findById(@RequestParam UUID id) {
         return ResponseEntity.status(HttpStatus.OK).body(cursoService.findById(id));
+    }
+
+    @GetMapping("/all")
+    public ResponseEntity<List<CursoModel>> findAll() {
+        return ResponseEntity.status(HttpStatus.OK).body(cursoService.findAll());
     }
 }
