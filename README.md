@@ -26,6 +26,10 @@
 #
 ### MODELAGEM DE PERSISTENCIA
 
+<div align="center">
+  <img src="pictures/persistencia" width="600px;">
+</div>
+
 #
 ### REQUISITOS
 
