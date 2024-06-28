@@ -5,10 +5,9 @@
 </div>
 
 #
-### DESCRICAO
-
-#
 ### REPRESENTACAO DE FLUXO
+
+> A representação de fluxo visa graficamente ilustrar o comportamento da aplicação em nível arquitetural, destacando os principais recursos empregados para assegurar o funcionamento eficiente do serviço.
 
 # 
 - **Arquitetura**
@@ -26,9 +25,6 @@
 
 #
 ### MODELAGEM DE PERSISTENCIA
-
-#
-### MODELAGEM DE CLASSES
 
 #
 ### REQUISITOS
