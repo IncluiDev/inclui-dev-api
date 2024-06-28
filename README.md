@@ -91,6 +91,41 @@ http://localhost:8080/swagger-ui/index.html#/
 ```
 
 #
+### CONTRIBUIÇÃO
+
+1. Adicione suas mudanças ao controle de versão:
+
+```bash
+git add .
+```
+
+E aperte a tecla `Enter`
+
+2. Comite as alterações com uma mensagem descritiva:
+
+```bash
+git commit -m "Descrição das mudanças que realizou"
+```
+
+E aperte a tecla `Enter`
+
+3. Atualize seu repositório local com a versão mais recente do projeto:
+
+```bash
+git pull 
+```
+
+E aperte a tecla `Enter`
+
+4. Envie suas alterações locais para o repositório remoto:
+
+```bash
+git push <remote_url> <branch_principal>
+```
+
+E aperte a tecla `Enter`
+
+#
 ### EQUIPE
 
 <table align="center">
