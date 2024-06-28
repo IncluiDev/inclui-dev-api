@@ -5,11 +5,22 @@
 </div>
 
 #
-### REPRESENTACAO DE FLUXO
+### FUNCIONALIDADES
+
+- Implementação de Autenticação JWT para garantia de segurança e integridade das comunicações.
+- Arquitetura desacoplada e orientada a microserviços para escalabilidade e flexibilidade operacional.
+- Personalização na validação e tratamento de exceções, assegurando robustez e confiabilidade no sistema.
+- Persistência dinâmica de dados para adaptação eficiente às demandas variáveis do ambiente.
+- Tratamento de transações com callback, garantindo consistência e integridade em operações críticas.
+- Normalização de dados através de Data Objects Transactions para padronização e consistência de informações.
+- Utilização do Swagger UI para uma documentação complementar detalhada e acessível.
+- Estruturação de tentativas de requisições externas sob controle para manutenção da estabilidade e disponibilidade do sistema.
+
+#
+### REPRESENTAÇÃO DE FLUXO
 
 > A representação de fluxo visa graficamente ilustrar o comportamento da aplicação em nível arquitetural, destacando os principais recursos empregados para assegurar o funcionamento eficiente do serviço.
 
-# 
 - **Arquitetura**
 
 <div align="center">
@@ -24,10 +35,11 @@
 </div>
 
 #
-### MODELAGEM DE PERSISTENCIA
+### MODELAGEM DE PERSISTÊNCIA
+> Esse diagrama é uma representação técnica crucial utilizada para visualizar a estrutura e as interações dos dados persistidos no banco de dados. Ele consiste em entidades, atributos e seus relacionamentos, proporcionando uma visão clara da arquitetura subjacente do sistema de armazenamento. Esse recurso não só auxilia no entendimento da organização dos dados, mas também facilita o desenvolvimento e a manutenção de sistemas eficientes.
 
 <div align="center">
-  <img src="pictures/persistencia" width="600px;">
+  <img src="pictures/persistencia.png" width="600px;">
 </div>
 
 #
