@@ -17,17 +17,12 @@ import java.util.UUID;
 @AllArgsConstructor
 @NoArgsConstructor
 public class CursoPutDto {
-    @NotNull @NotEmpty @CursoExistsById
+    @CursoExistsById
     private UUID id;
 
-    @NotNull @NotEmpty
     private String nome, descricao, area, referenciaImagem;
-
-    @NotNull @Positive
     private int horasDuracao;
-
     private List<String> tags;
 
-    @NotNull @NotEmpty @UsuarioExistsById
     private UUID professor;
 }

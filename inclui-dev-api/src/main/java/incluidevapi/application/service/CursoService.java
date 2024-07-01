@@ -38,12 +38,14 @@ public class CursoService {
         );
     }
 
+    @Transactional(rollbackOn = ExceptionGeneric.class)
     public CursoModel findById(UUID curso) {
         return cursoRepository.findById(curso).orElseThrow(
                 () -> new NotFoundException("Curso")
         );
     }
 
+    @Transactional(rollbackOn = ExceptionGeneric.class)
     public List<CursoModel> findAll() {
         return cursoRepository.findAll();
     }

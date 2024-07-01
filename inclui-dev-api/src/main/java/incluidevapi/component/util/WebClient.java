@@ -27,7 +27,7 @@ public class WebClient {
         headers.setBasicAuth(this.role, this.password);
 
         client.exchange(
-                 this.url+"recuperacao",
+                 this.url+"/recuperacao",
                 HttpMethod.POST,
                 new HttpEntity<>(recuperacao, headers),
                 Object.class

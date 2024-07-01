@@ -42,4 +42,10 @@ public class UsuarioService {
                 () -> new NotFoundException("Usuario")
         );
     }
+
+    public UsuarioModel findByEmail(String email) {
+        return usuarioRepository.findByEmail(email).orElseThrow(
+                () -> new NotFoundException("Usuario")
+        );
+    }
 }

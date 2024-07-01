@@ -9,9 +9,11 @@ import incluidevapi.component.util.WebClient;
 import incluidevapi.data.dto.post.RecuperacaoSenhaPostDto;
 import incluidevapi.data.dto.put.RecuperacaoSenhaPutDto;
 import incluidevapi.data.model.dynamic.RecuperacaoSenhaModel;
+import incluidevapi.data.model.persist.perfil.UsuarioModel;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 
@@ -28,16 +30,20 @@ public class RecuperacaoSenhaService {
                     recuperacaoSenhaRepository.existsByEmail(recuperacao.getEmail()) ?
                             findCodigo(recuperacao.getEmail()) : save(recuperacao.getEmail())
             );
-        } catch (Exception ignored) {}
+        } catch (Exception ignored) { }
     }
 
     public void changeUsuario(@Valid RecuperacaoSenhaPutDto recuperacao) {
-        var usuario = usuarioRepository.findByEmail(recuperacao.getEmail()).orElseThrow(
-                () -> new NotFoundException("RECUPERACAO")
+        usuarioRepository.save(
+                setPassword(usuarioRepository.findByEmail(recuperacao.getEmail()).orElseThrow(
+                        () -> new NotFoundException("RECUPERACAO")
+                ), recuperacao.getSenha())
         );
+    }
 
-        usuario.setSenha(recuperacao.getSenha());
-        usuarioRepository.save(usuario);
+    private UsuarioModel setPassword(UsuarioModel usuario, String senha) {
+        usuario.setSenha(new BCryptPasswordEncoder().encode(senha));
+        return usuario;
     }
 
     @Transactional(rollbackOn = ExceptionGeneric.class)

@@ -38,12 +38,14 @@ public class AulaService {
         );
     }
 
+    @Transactional(rollbackOn = ExceptionGeneric.class)
     public AulaModel findById(UUID aula) {
         return aulaRepository.findById(aula).orElseThrow(
                 () -> new NotFoundException("Aula")
         );
     }
 
+    @Transactional(rollbackOn = ExceptionGeneric.class)
     public List<AulaModel> findAllByCurso(UUID curso) {
         return aulaRepository.findAllByCurso(curso).orElseThrow(
                 () -> new NotFoundException("Aula")

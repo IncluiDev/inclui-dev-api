@@ -1,5 +1,7 @@
 package incluidevapi.data.model.type;
 
+import incluidevapi.component.exception.ExceptionGeneric;
+
 public enum EducativoTipo {
     JOGO("JOGO"),
     CURSO("CURSO");
@@ -10,7 +12,12 @@ public enum EducativoTipo {
         this.content = content;
     }
 
-    public static String toString(EducativoTipo perfil) {
-        return perfil.content;
+    public static EducativoTipo toString(String perfil) {
+        if(perfil.equalsIgnoreCase("JOGO"))
+            return JOGO;
+        else if(perfil.equalsIgnoreCase("CURSO"))
+            return CURSO;
+
+        throw new ExceptionGeneric("MODALIDADE NOT EXISTS", "MODALIDADE NOT EXISTS", 400);
     }
 }

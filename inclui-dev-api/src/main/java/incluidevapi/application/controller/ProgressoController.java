@@ -9,6 +9,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
 import java.util.UUID;
 
 @RestController
@@ -34,7 +35,12 @@ public class ProgressoController {
     }
 
     @GetMapping("")
-    public ResponseEntity<ProgressoModel> findById(@RequestParam UUID id) {
-        return ResponseEntity.status(HttpStatus.OK).body(progressoService.findById(id));
+    public ResponseEntity<List<ProgressoModel>> findByUsuario(@RequestParam UUID usuario) {
+        return ResponseEntity.status(HttpStatus.OK).body(progressoService.findByUsuario(usuario));
+    }
+
+    @GetMapping("/check")
+    public ResponseEntity<ProgressoModel> check(@RequestParam UUID usuario, @RequestParam UUID educativo) {
+        return ResponseEntity.status(HttpStatus.OK).body(progressoService.check(usuario, educativo));
     }
 }

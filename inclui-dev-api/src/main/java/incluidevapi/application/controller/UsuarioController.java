@@ -37,4 +37,9 @@ public class UsuarioController {
     public ResponseEntity<UsuarioModel> findById(@RequestParam UUID id) {
         return ResponseEntity.status(HttpStatus.OK).body(usuarioService.findById(id));
     }
+
+    @GetMapping("/record")
+    public ResponseEntity<UsuarioModel> findByEmail(@RequestParam String email) {
+        return ResponseEntity.status(HttpStatus.OK).body(usuarioService.findByEmail(email));
+    }
 }

@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "Kaique Souza Santos",
+        "senha": "professor@123",
+        "perfil": "PROFESSOR",
+        "referenciaFoto": "https://media.licdn.com/dms/image/D5603AQFG7mf3hvvr1A/profile-displayphoto-shrink_200_200/0/1713557240333?e=1723075200&v=beta&t=hBcnz0z8gXoB-kMBnjVdyGhWQfRzC4owfGvvsxilVH0",
+        "email": "kaiquesouzasantos905@gmail.com",
+        "dataNascimento": "2006-02-12"
+    },
+    {
+        "nome": "Henry Oliveira Modesto de Jesus",
+        "senha": "professor@123",
+        "perfil": "PROFESSOR",
+        "referenciaFoto": "https://avatars.githubusercontent.com/u/114154481?v=4",
+        "email": "modestohenry48@gmail.com",
+        "dataNascimento": "2006-02-12"
+    }
+]

@@ -5,6 +5,7 @@ import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.hibernate.annotations.DynamicUpdate;
 
 import java.io.Serial;
 import java.io.Serializable;
@@ -13,6 +14,7 @@ import java.util.UUID;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+@DynamicUpdate
 @Entity
 @Table(name = "progresso")
 public class ProgressoModel implements Serializable {
@@ -23,6 +25,9 @@ public class ProgressoModel implements Serializable {
     private UUID id;
 
     private int progresso;
+
+    @Transient
+    private double porcentagem;
 
     @Enumerated(EnumType.STRING)
     private EducativoTipo modalidade;

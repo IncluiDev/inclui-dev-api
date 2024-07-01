@@ -4,6 +4,7 @@ import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.hibernate.annotations.DynamicUpdate;
 
 import java.io.Serial;
 import java.io.Serializable;
@@ -12,6 +13,7 @@ import java.util.UUID;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+@DynamicUpdate
 @Entity
 @Table(name = "aula")
 public class AulaModel implements Serializable {
@@ -21,7 +23,13 @@ public class AulaModel implements Serializable {
     @Id @GeneratedValue(strategy = GenerationType.AUTO)
     private UUID id;
 
-    private String nome, referenciaVideo, descricaoImagem, transcricao, descricao;
+    @Column(nullable = false)
+    private String nome, referenciaVideo;
 
+    @Lob
+    @Column(nullable = false)
+    private String descricaoImagem, transcricao, descricao;
+
+    @Column(nullable = false)
     private UUID curso;
 }

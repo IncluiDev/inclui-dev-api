@@ -1,0 +1,24 @@
+[
+    {
+        "nome": "Preparação Estratégica para a OBI",
+        "descricao": "Prepare-se para a Olimpíada Brasileira de Informática (OBI) com o curso Preparação Estratégica para a OBI. Em apenas 5 horas, você aprenderá técnicas e estratégias essenciais para resolver problemas de programação, focando em lógica e habilidades práticas com Python. Este curso é ideal para estudantes que desejam competir na OBI e se destacar, proporcionando uma abordagem objetiva e prática para desenvolver seu raciocínio lógico e capacidade de resolução de problemas. Aproveite esta oportunidade para impulsionar seu desempenho e alcançar resultados excelentes na OBI!",
+        "area": "Programação",
+        "referenciaImagem": "https://olimpiada.ic.unicamp.br/static/assets/img/lampada.svg",
+        "horasDuracao": 5,
+        "tags": [
+            "Python", "Lógica", "Resolução de Problemas", "Olimpíada Brasileira de Informática"
+        ],
+        "professor": "4696836f-c765-451a-9a42-e61220ef69c4"
+    }, 
+    {
+        "nome": "Lógica de Programação com Python",
+        "descricao": "Descubra os fundamentos da programação com o curso Lógica de Programação com Python. Em apenas 2 horas, você aprenderá a pensar como um programador e a resolver problemas utilizando Python, uma das linguagens mais populares e versáteis do mercado. Ideal para iniciantes, este curso oferece uma abordagem prática e direta, ajudando você a desenvolver suas habilidades lógicas e a criar soluções eficientes para diversos tipos de desafios.",
+        "area": "Programação",
+        "referenciaImagem": "https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png",
+        "horasDuracao": 3,
+        "tags": [
+            "Python", "Lógica", "Resolução de Problemas"
+        ],
+        "professor": "1b38ed4b-0fb1-4507-9b7c-0f441ce7737a"
+    }
+]

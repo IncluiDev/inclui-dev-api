@@ -4,6 +4,7 @@ import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.hibernate.annotations.DynamicUpdate;
 
 import java.io.Serial;
 import java.io.Serializable;
@@ -12,6 +13,7 @@ import java.util.UUID;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+@DynamicUpdate
 @Entity
 @Table(name = "preferencia")
 public class PreferenciaModel implements Serializable {
@@ -22,7 +24,9 @@ public class PreferenciaModel implements Serializable {
     private UUID id;
 
     // mobilidades
-    private boolean visual, motora, auditiva, cognitiva, atencao, dislexia, autismo, sindromeDown;
+    @Column(nullable = false)
+    private boolean visual, auditiva, daltonismo, autismo;
 
+    @Column(nullable = false)
     private UUID usuario;
 }

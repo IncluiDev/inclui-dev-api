@@ -12,7 +12,6 @@ import org.springframework.retry.annotation.EnableRetry;
         info = @Info(
                 title = "IncluiDev - API",
                 version = "1.0.0",
-                description = "",
 
                 contact = @Contact(
                         name = "Kaique Souza Santos",
@@ -20,8 +19,7 @@ import org.springframework.retry.annotation.EnableRetry;
                 ),
 
                 license = @License(
-                        name = "license",
-                        url = ""
+                        name = "license"
                 )
         )
 )
